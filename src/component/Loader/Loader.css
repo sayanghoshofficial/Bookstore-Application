@@ -1,0 +1,43 @@
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0f0c29; /* Deep blue background color */
+  }
+  
+  .loader {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    animation: spin 1.5s linear infinite;
+  }
+  
+  .loader-inner {
+    width: 20px;
+    height: 20px;
+    background-color: #00a8cc; /* Light blue circle color */
+    border-radius: 50%;
+    animation: bounce 1.5s alternate infinite;
+  }
+  
+  @keyframes spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(0.6);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
