@@ -1,3 +1,30 @@
+# Furation Tech Solutions ( REACTJS Bookstore Application) ASSESSMENT - ROUND 1 
+
+![1](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/efce506e-8e44-48cc-b0ae-232e7c3b7c2e)
+![2](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/55feb5bd-e7ed-4d8a-96d4-73bc371f0ca5)
+![3](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/12935893-d14c-48a3-b757-7b1930949c6d)
+![4](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/ffb09a2e-86e2-430a-87e8-cfcaf2d78524)
+![5](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/9d45eabd-115f-455b-8ed4-4ef3abe33e10)
+![6](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/a9defce4-9b0a-44de-a044-0f5d684b39dd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
