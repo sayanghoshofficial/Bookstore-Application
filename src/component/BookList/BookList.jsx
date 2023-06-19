@@ -13,7 +13,7 @@ const BookList = () => {
     return {
       ...singleBook,
       // removing /works/ to get only id
-      id: (singleBook.id).replace("/works/", ""),
+      id: singleBook.id.replace("/works/", ""),
       cover_img: singleBook.cover_id
         ? `https://covers.openlibrary.org/b/id/${singleBook.cover_id}-L.jpg`
         : coverImg,
@@ -27,7 +27,7 @@ const BookList = () => {
   return (
     <section className="booklist">
       <div className="container">
-        <div className="section-title">
+        <div className="section-title text-white">
           <h2>{resultTitle}</h2>
         </div>
         <div className="booklist-content grid">

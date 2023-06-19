@@ -8,6 +8,10 @@ const Loader = () => {
         <div className="loader-inner"></div>
         <div className="loader-inner"></div>
         <div className="loader-inner"></div>
+        <div className="loader-inner"></div>
+        <div className="loader-inner"></div>
+        <div className="loader-inner"></div>
+        <div className="loader-inner"></div>
       </div>
     </div>
   );
