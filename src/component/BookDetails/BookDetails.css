@@ -36,6 +36,9 @@
     max-height: 600px;
     padding: 1.4rem;
 }
+.book-details-info div:hover{
+    color: var(--purple-color);
+}
 .book-details-info::-webkit-scrollbar{
     width: 8px;
 }
