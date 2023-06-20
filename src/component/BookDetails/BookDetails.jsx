@@ -40,10 +40,10 @@ const BookDetails = () => {
               ? `https://covers.openlibrary.org/b/id/${covers[0]}-L.jpg`
               : coverImg,
             subject_places: subject_places
-              ? subject_places.join(", ")
+              ? subject_places?.join(", ")
               : "No subject places found",
             subject_times: subject_times
-              ? subject_times.join(", ")
+              ? subject_times?.join(", ")
               : "No subject times found",
             subjects: subjects ? subjects.join(", ") : "No subjects found",
           };
