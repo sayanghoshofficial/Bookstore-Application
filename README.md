@@ -1,11 +1,49 @@
 # Furation Tech Solutions ( REACTJS Bookstore Application) ASSESSMENT - ROUND 1 
 
+
+# Create React My Library App
+
+This is the Hosting Page [My Chat App](https://sayanghoshofficial.github.io/Bookstore-Application/)
+
+## Navbar & Header section
 ![1](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/f885a8f9-7de7-44d4-90de-2ddd31478317)
+
+## Book List Search Items
 ![2](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/55feb5bd-e7ed-4d8a-96d4-73bc371f0ca5)
 ![3](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/12935893-d14c-48a3-b757-7b1930949c6d)
 ![4](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/ffb09a2e-86e2-430a-87e8-cfcaf2d78524)
+
+## Footer Section
 ![5](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/9d45eabd-115f-455b-8ed4-4ef3abe33e10)
+
+## Details About Book
 ![6](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/a9defce4-9b0a-44de-a044-0f5d684b39dd)
+
+
+## Functionality
+#####   Assume you are a user.
+
+#####   Use (https://openlibrary.org/developers/api) json dummy data in the project.
+
+#####   Search : Search Any book By it's name.
+
+#####   Book List:
+######                Show all the book found by the name you search
+
+
+#####   Book Details
+######                On clicking the Name of the book It take you the page Where you get book details
+
+#####   Footer Section
+######                It showing My personal Details To show my Others Work and My Expaties
+
+
+
+#####   use react-router.
+
+#####   use react hooks.
+
+#####   use react feather & react icon 
 
 
 
