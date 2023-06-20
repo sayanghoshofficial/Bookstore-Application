@@ -22,6 +22,7 @@ This is the Hosting Page [My Library App](https://sayanghoshofficial.github.io/B
 
 ## Functionality
 #####   Assume you are a user.
+######   First go to home page(you can navigate it from navbar) it will show details of all books or else you serach yoyr book
 
 #####   Use (https://openlibrary.org/developers/api) json dummy data in the project.
 
