@@ -3,7 +3,7 @@
 
 # Create React My Library App
 
-This is the Hosting Page [My Chat App](https://sayanghoshofficial.github.io/Bookstore-Application/)
+This is the Hosting Page [My Library App](https://sayanghoshofficial.github.io/Bookstore-Application/)
 
 ## Navbar & Header section
 ![1](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/f885a8f9-7de7-44d4-90de-2ddd31478317)
