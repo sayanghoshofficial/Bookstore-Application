@@ -40,7 +40,7 @@ const SearchForm = () => {
                 className="flex flex-c"
                 onClick={handleSubmit}
               >
-                <FaSearch className="text-purple" size={32} />
+                <FaSearch className="text-white" size={32} />
               </button>
             </div>
           </form>
