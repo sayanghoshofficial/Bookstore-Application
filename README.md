@@ -1,6 +1,6 @@
 # Furation Tech Solutions ( REACTJS Bookstore Application) ASSESSMENT - ROUND 1 
 
-![1](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/f85e4130-9cf0-4377-a91d-e86a3fc82659)
+![1](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/f885a8f9-7de7-44d4-90de-2ddd31478317)
 ![2](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/55feb5bd-e7ed-4d8a-96d4-73bc371f0ca5)
 ![3](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/12935893-d14c-48a3-b757-7b1930949c6d)
 ![4](https://github.com/sayanghoshofficial/Bookstore-Application/assets/99132893/ffb09a2e-86e2-430a-87e8-cfcaf2d78524)
