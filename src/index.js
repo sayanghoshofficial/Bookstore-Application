@@ -9,7 +9,7 @@ import { BookDetails, BookList } from "./component";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <AppProvider>
-    <BrowserRouter>
+    <BrowserRouter basename="/Bookstore-Application">
       <Routes>
         <Route path="/" element={<Home />}>
           <Route path="about" element={<About />} />
