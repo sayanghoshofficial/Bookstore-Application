@@ -1,6 +1,3 @@
-# Furation Tech Solutions ( REACTJS Bookstore Application) ASSESSMENT - ROUND 1 
-
-
 # Create React My Library App
 
 This is the Hosting Page [My Library App](https://sayanghoshofficial.github.io/Bookstore-Application/)
