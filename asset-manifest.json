@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Bookstore-Application/static/css/main.c0153fd3.css",
-    "main.js": "/Bookstore-Application/static/js/main.b2679aa0.js",
+    "main.css": "/Bookstore-Application/static/css/main.a618666f.css",
+    "main.js": "/Bookstore-Application/static/js/main.d9c98a1e.js",
     "static/media/libray.jpg": "/Bookstore-Application/static/media/libray.b554041e37ebecf7f612.jpg",
     "static/media/about.jpg": "/Bookstore-Application/static/media/about.ec8afaa05517cd94583a.jpg",
     "static/media/logo.png": "/Bookstore-Application/static/media/logo.1ef8013fa6467332437c.png",
     "static/media/bookNF.jpg": "/Bookstore-Application/static/media/bookNF.0271c7aa840ab5eb00c4.jpg",
     "index.html": "/Bookstore-Application/index.html",
-    "main.c0153fd3.css.map": "/Bookstore-Application/static/css/main.c0153fd3.css.map",
-    "main.b2679aa0.js.map": "/Bookstore-Application/static/js/main.b2679aa0.js.map"
+    "main.a618666f.css.map": "/Bookstore-Application/static/css/main.a618666f.css.map",
+    "main.d9c98a1e.js.map": "/Bookstore-Application/static/js/main.d9c98a1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0153fd3.css",
-    "static/js/main.b2679aa0.js"
+    "static/css/main.a618666f.css",
+    "static/js/main.d9c98a1e.js"
   ]
 }
